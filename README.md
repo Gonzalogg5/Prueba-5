@@ -5,4 +5,4 @@
 
 2. Creación de un proyecto en IntelliJ
 
-![Creación de Proyecto]![imagen](./img/imagen.png)
+![Creación de Proyecto]![imagen](https://user-images.githubusercontent.com/114091394/202240934-b41df56b-0dd7-49a5-9563-2fb4bf6cdf98.png)
